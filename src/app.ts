@@ -67,10 +67,6 @@ class Repository {
     }
 }
 
-interface IStrategy{
-
-}
-
 abstract class ListBuilder<T extends IEntity> {
     protected entities:Array<T>;
     protected rootElement:HTMLElement;
