@@ -143,4 +143,3 @@ window.onload = function () {
     var contentElement = document.getElementById("content");
     contentElement.appendChild(companiesElement);
 };
-//# sourceMappingURL=app.js.map
